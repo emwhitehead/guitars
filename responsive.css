@@ -43,6 +43,14 @@
 
 /* Phones */
 @media screen and (max-width: 480px) {
+	.blurb-wrapper h1 {
+		font-size: 1.5em;
+	}
+	
+	h2 {
+		font-size: 1.2em;
+	}
+
 	.why-me-wrapper {
 		flex-wrap: wrap;
 		text-align: center;
